@@ -2,7 +2,7 @@
   "name": "mood-tracker-pwa",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://arunchandv-py.github.io/mood-tracker",
+  "homepage": "https://arunchandv-py.github.io/moodApp",
   "dependencies": {
     "react": "18.3.1",
     "react-dom": "18.3.1",
